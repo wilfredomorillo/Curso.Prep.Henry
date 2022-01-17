@@ -3,15 +3,34 @@ h1{
 
 }
 img{
-    width: 500px;
+    width: 200px;
 }
-#thirdDiv{
-    height: 800px;
-    width: 500px;
+#thirdDiv1{
+    height: 25px;
+    width: 300px;
     background-color: rgb(160, 177, 160);
     padding: 50px;
-    border: 5px chocolate solid;
+    border: 5px rgb(54, 52, 50) solid;
+
+    
+}
+#thirdDiv2{
+    display: flex;
+    justify-content:center;
+    background-color: cyan;
+    padding: 50px;
+    border: 18px rgb(216, 226, 216)solid;
+    height: 300px;
+    width: 50%;
+
 }
 #spanid{ font-size: 18px;
     margin: 50px;
 }
+.divClass{
+    display: flex;
+    justify-content: center;
+    
+}
+.divClss{display: flex;
+justify-content: center;}
